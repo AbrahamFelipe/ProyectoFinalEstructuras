@@ -6,3 +6,5 @@ Autores:
   Abraham Másmela
   Juan Naranjo
   Jhonatan Gonzalez
+  
+  Debe instalar en su IDE la libreria mysql-connector-java-8.0.29
